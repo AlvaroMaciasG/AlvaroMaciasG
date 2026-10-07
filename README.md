@@ -1,16 +1,21 @@
-## Hi there 👋
+# Alvaro Macias Garcia
+**SecOps Operator | Systems Administrator | Future SRE & Cloud Identity Engineer**
 
-<!--
-**AlvaroMaciasG/AlvaroMaciasG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an IT infrastructure specialist with 4 years of operational experience in incident triage, system monitoring, and cross-functional shift leadership in high-risk environments. My current technical focus bridges the gap between traditional systems administration and modern cloud reliability.
 
-Here are some ideas to get you started:
+I build automated homelabs to validate architectures, centralize telemetry, and document infrastructure-as-code deployments.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Stack
+
+**Infra & OS** · Linux (Debian/Ubuntu) · Windows Server · Active Directory
+
+**Networking & Security** · TCP/IP · DNS/DHCP · Wazuh SIEM · UFW · Fail2Ban
+
+**Containers & IaC** · Docker · Docker Compose · Kubernetes (K3s) · Terraform
+
+**Automation** · Bash · Python · PowerShell · GitHub Actions (CI/CD)
+
+### 🚀 Currently Focusing On
+- Preparing for **Microsoft AZ-104** (Azure Administrator) and **SC-900** (Security, Compliance, and Identity).
+- Automating Identity & Access Management (IAM) workflows using PowerShell and Microsoft Graph API.
+- Exploring declarative infrastructure via Terraform and GitOps practices.
