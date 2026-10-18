@@ -1,21 +1,24 @@
-# Alvaro Macias Garcia
-**SecOps Operator | Systems Administrator | Future SRE & Cloud Identity Engineer**
+# Álvaro Macías García 
 
-I am an IT infrastructure specialist with 4 years of operational experience in incident triage, system monitoring, and cross-functional shift leadership in high-risk environments. My current technical focus bridges the gap between traditional systems administration and modern cloud reliability.
+I currently work as a Shift Team Lead at a 24/7 Security Control Center. After 6 years of dealing with incident triage, SLAs , and managing operational user access, I'm shifting my focus to **Identity & Access Management (IAM)** and **Cloud Infrastructure**.
 
-I build automated homelabs to validate architectures, centralize telemetry, and document infrastructure-as-code deployments.
+ To bridge the gap between my operational background and enterprise engineering, I use this GitHub as my learning tool. I build, break, and secure automated homelabs to understand how hybrid directories, zero-trust networks, and automated pipelines behave.
 
-### 🛠️ Stack
+### 🛠️ What I'm working on
+- 🏗️ **Building:** Automating Entra ID / AD hybrid environments (Joiner-Mover-Leaver workflows, RBAC) with PowerShell and MS Graph.
+- ☁️ **Deploying:** Segmented Azure networks and Zero-Trust baselines using Terraform.
+- 🛡️ **Monitoring:** Containerizing Wazuh SIEM to catch authentication anomalies.
+- 📚 **Studying:** Prepping for the **MS SC-300** and **AZ-104** certs.
 
-**Infra & OS** · Linux (Debian/Ubuntu) · Windows Server · Active Directory
+### 💻 Stack
+**Identity:** Entra ID, Active Directory, SSO (SAML/OIDC), MFA, RBAC  
+**Infrastructure:** Azure, Linux (Debian/Ubuntu), Windows Server, Docker  
+**Automation:** PowerShell, Python, Bash, Terraform, GitHub Actions  
 
-**Networking & Security** · TCP/IP · DNS/DHCP · Wazuh SIEM · UFW · Fail2Ban
+### 📂 My Labs
+* [hybrid-iam-governance-lab](#) - Automated identity lifecycle and auditing (Entra ID + AD).
+* [azure-zero-trust-iac-baseline](#) - Azure infrastructure deployed declaratively via Terraform.
+* [wazuh-siem-identity-lab](#) - AD/Linux log centralization and MITRE ATT&CK alerting.
+* [devsecops-oidc-pipeline](#) - GitHub Actions workflows using OIDC federated credentials.
 
-**Containers & IaC** · Docker · Docker Compose · Kubernetes (K3s) · Terraform
-
-**Automation** · Bash · Python · PowerShell · GitHub Actions (CI/CD)
-
-### 🚀 Currently Focusing On
-- Preparing for **Microsoft AZ-104** (Azure Administrator) and **SC-900** (Security, Compliance, and Identity).
-- Automating Identity & Access Management (IAM) workflows using PowerShell and Microsoft Graph API.
-- Exploring declarative infrastructure via Terraform and GitOps practices.
+📫 **Find me on** [LinkedIn](https://linkedin.com/in/alvaromaciasgarcia)
