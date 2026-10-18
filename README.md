@@ -18,7 +18,7 @@ I currently work as a Shift Team Lead at a 24/7 Security Control Center. After 6
 ### 📂 My Labs
 - `hybrid-iam-governance-lab` — Entra ID identity lifecycle automation, RBAC provisioning, and identity hygiene auditing with PowerShell and Microsoft Graph.
 - `azure-zero-trust-iac-baseline` — Terraform-based Azure infrastructure with network segmentation, least-privilege RBAC, Azure Policy, and Key Vault security controls.
-- `wazuh-siem-identity-lab` — Wazuh SIEM detection rules, SSH and web log analysis, Python-based network reconnaissance, and incident response.
+- `secops-wazuh-mfa-lab` — MSc Cybersecurity project: Wazuh SIEM deployment, custom XML detection rules, incident response, and Linux IAM hardening with PAM MFA.
 - `dvwa-devsecops-pipeline` — Automated GitHub Actions security pipeline for DVWA, integrating secret detection, SAST, dependency and vulnerability scanning, and DAST.
 
 📫 **Find me on** [LinkedIn](https://linkedin.com/in/alvaromaciasgarcia)
