@@ -21,4 +21,4 @@ I currently work as a Shift Team Lead at a 24/7 Security Control Center. After 6
 - `secops-wazuh-mfa-lab` — MSc Cybersecurity project: Wazuh SIEM deployment, custom XML detection rules, incident response, and Linux IAM hardening with PAM MFA.
 - `dvwa-devsecops-pipeline` — Automated GitHub Actions security pipeline for DVWA, integrating secret detection, SAST, dependency and vulnerability scanning, and DAST.
 
-📫 **Find me on** [LinkedIn](https://linkedin.com/in/alvaromaciasgarcia)
+ **Find me on** [LinkedIn](https://linkedin.com/in/alvaromaciasgarcia)
