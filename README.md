@@ -16,9 +16,9 @@ I currently work as a Shift Team Lead at a 24/7 Security Control Center. After 6
 **Automation:** PowerShell, Python, Bash, Terraform, GitHub Actions  
 
 ### 📂 My Labs
-* [hybrid-iam-governance-lab](#) - Automated identity lifecycle and auditing (Entra ID + AD).
-* [azure-zero-trust-iac-baseline](#) - Azure infrastructure deployed declaratively via Terraform.
-* [wazuh-siem-identity-lab](#) - AD/Linux log centralization and MITRE ATT&CK alerting.
-* [devsecops-oidc-pipeline](#) - GitHub Actions workflows using OIDC federated credentials.
+- `hybrid-iam-governance-lab` — Entra ID identity lifecycle automation, RBAC provisioning, and identity hygiene auditing with PowerShell and Microsoft Graph.
+- `azure-zero-trust-iac-baseline` — Terraform-based Azure infrastructure with network segmentation, least-privilege RBAC, Azure Policy, and Key Vault security controls.
+- `wazuh-siem-identity-lab` — Wazuh SIEM detection rules, SSH and web log analysis, Python-based network reconnaissance, and incident response.
+- `dvwa-devsecops-pipeline` — Automated GitHub Actions security pipeline for DVWA, integrating secret detection, SAST, dependency and vulnerability scanning, and DAST.
 
 📫 **Find me on** [LinkedIn](https://linkedin.com/in/alvaromaciasgarcia)
